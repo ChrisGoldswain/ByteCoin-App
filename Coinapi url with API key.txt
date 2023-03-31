@@ -1,0 +1,1 @@
+https://rest.coinapi.io/v1/exchangerate/BTC/USD?apikey=7FFD80A6-7C45-479D-AED0-D56D82460668
